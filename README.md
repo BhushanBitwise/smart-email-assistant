@@ -33,7 +33,7 @@ This project was designed as both a practical productivity tool and a strong sho
 
 ## 🖼️ Hero Preview
 
-![Hero Screenshot](https://placehold.co/1400x700/111827/ffffff?text=Smart+Email+Assistant+Hero)
+![Hero Screenshot](./assets/image/hero.png)
 
 ---
 
@@ -123,30 +123,42 @@ Gmail
 
 ### Landing Page
 
-![Landing](https://placehold.co/1200x700/1f2937/ffffff?text=Landing+Page)
+![Landing](./assets//image//hero.png)
 
 ### AI Generator
 
-![Generator](https://placehold.co/1200x700/1f2937/ffffff?text=AI+Generator)
+![Generator](./assets//image//ai.png)
 
-### Dark Theme
-
-![Dark Theme](https://placehold.co/1200x700/111827/ffffff?text=Dark+Theme)
 
 ### Gmail Extension
 
-![Extension](https://placehold.co/1200x700/1f2937/ffffff?text=Gmail+Extension)
+![Extension](./assets//image/ex0.png)
 
-### AI Reply
+### AI Reply 
 
-![Reply](https://placehold.co/1200x700/111827/ffffff?text=AI+Reply)
+![Reply](./assets//image/ex1.png)
+
+### AI Reply 
+
+![Reply](./assets//image/ex2.png)
+
+### AI Reply 
+
+![Reply](./assets//image/ex3.png)
+
+### AI Reply 
+
+![Reply](./assets//image/ex4.png)
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Video WebSide
 
-[![Watch Demo](https://placehold.co/1200x600/111827/ffffff?text=Demo+Video)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch Demo](./assets/video/email-writer-react.mp4)
 
+## 🎥 Demo Video Gmail Extension
+
+[![Watch Demo](./assets/video/email-writer-ex.mp4)
 ---
 
 ## 🧩 Chrome Extension Demo
