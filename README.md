@@ -152,23 +152,8 @@ Gmail
 
 ---
 
-## 🎥 Demo Video WebSide
 
-[![Watch Demo](./assets/video/email-writer-react.mp4)
 
-## 🎥 Demo Video Gmail Extension
-
-[![Watch Demo](./assets/video/email-writer-ex.mp4)
----
-
-## 🧩 Chrome Extension Demo
-
-- Install the extension in Chrome from the extension folder
-- Open Gmail and click the extension action
-- Generate a reply based on the selected email content
-- Review and insert the reply into the compose box
-
-![Extension GIF Placeholder](https://placehold.co/1200x600/111827/ffffff?text=Extension+Demo+GIF)
 
 ---
 
