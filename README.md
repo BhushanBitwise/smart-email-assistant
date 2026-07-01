@@ -472,9 +472,9 @@ You are free to use, modify, and distribute this project with attribution.
 ## 👤 Author
 
 - Name: Smart Email Assistant Team
-- GitHub: [](https://github.com/BhushanBitwise)
+- GitHub: [BhushanBitwise](https://github.com/BhushanBitwise)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/bhushan-gadekar-5b87032a5)
-- Portfolio: [your-portfolio](https://my-portfolio-topaz-nine-82.vercel.app/)
+- Portfolio: [portfolio](https://my-portfolio-topaz-nine-82.vercel.app/)
 - Email: thebhushan752@gmail.com
 
 ---
