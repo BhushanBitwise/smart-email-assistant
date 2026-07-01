@@ -1,0 +1,58 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+.env.*.local
+email-writer-react/.env
+email-writer-react/.env.local
+email-writer-react/.env.*.local
+email-writer-sb/.env
+email-writer-sb/.env.local
+email-writer-sb/.env.*.local
+
+# Node / Vite / React
+email-writer-react/node_modules/
+email-writer-react/dist/
+email-writer-react/.vite/
+email-writer-react/coverage/
+email-writer-react/.turbo/
+email-writer-react/.eslintcache
+email-writer-react/npm-debug.log*
+email-writer-react/yarn-debug.log*
+email-writer-react/yarn-error.log*
+email-writer-react/pnpm-debug.log*
+
+# Java / Maven / Spring Boot
+email-writer-sb/target/
+email-writer-sb/.idea/
+email-writer-sb/.settings/
+email-writer-sb/.classpath
+email-writer-sb/.project
+email-writer-sb/.factorypath
+
+# Build and temp artifacts
+**/build/
+**/out/
+**/.cache/
+**/tmp/
+**/temp/
+**/*.log
+
+# Chrome extension packaging artifacts
+email-writer-ext/*.pem
+email-writer-ext/*.crx
+email-writer-ext/*.zip
