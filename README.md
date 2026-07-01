@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
   <img src="https://img.shields.io/badge/OpenRouter-AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-  <img src="https://github.com/BhushanBitwise/smart-email-assistant?style=social" alt="GitHub Stars" />
+  <!-- <img src="https://img.shields.io/github/stars/your-username/smart-email-assistant?style=social" alt="GitHub Stars" /> -->
 </p>
 
 ---
