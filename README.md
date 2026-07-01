@@ -472,8 +472,8 @@ You are free to use, modify, and distribute this project with attribution.
 ## 👤 Author
 
 - Name: Smart Email Assistant Team
-- GitHub: [your-username](https://github.com/BhushanBitwise)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/bhushan-gadekar-5b87032a5)
+- GitHub: [](https://github.com/BhushanBitwise)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/bhushan-gadekar-5b87032a5)
 - Portfolio: [your-portfolio](https://my-portfolio-topaz-nine-82.vercel.app/)
 - Email: thebhushan752@gmail.com
 
@@ -486,7 +486,7 @@ If this project helped you, please consider giving it a star.
 It helps more than you might think and encourages continued development.
 
 <p align="center">
-  <a href="https://github.com/your-username/smart-email-assistant">
+  <a href="https://github.com/BhushanBitwise/smart-email-assistant">
     <img src="https://img.shields.io/badge/⭐%20Star%20This%20Repo-111827?style=for-the-badge&logo=github" alt="Star Repo" />
   </a>
 </p>

@@ -21,7 +21,7 @@ function getEmailContent() {
         const content = document.querySelector(selector);
         if (content) {
             return content.innerText.trim();
-        }
+        } 
         return '';
     }
 }
